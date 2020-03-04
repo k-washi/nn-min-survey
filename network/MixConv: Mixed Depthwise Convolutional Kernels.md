@@ -15,4 +15,5 @@ git: [tf](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/
 
 ## MixConv
 
-チャネル(のグループ)ごとに異なる大きさのフィルターを使うようにしたDepthwise Convのこと。 
+チャネル(のグループ)ごとに異なる大きさのフィルターを使うようにしたDepthwise Convのこと。
+ 
